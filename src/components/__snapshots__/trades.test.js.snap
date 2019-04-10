@@ -1,0 +1,149 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Trades Component Test renders as expected 1`] = `
+<table>
+  <tbody>
+    <tr>
+      <th>
+        Time
+      </th>
+      <th>
+        Price
+      </th>
+      <th>
+        Amount
+      </th>
+    </tr>
+    <tr
+      id={349248445}
+    >
+      <td>
+        9:31:06 PM
+      </td>
+      <td>
+        5299.5
+      </td>
+      <td>
+        0.01054537
+      </td>
+    </tr>
+    <tr
+      id={349248364}
+    >
+      <td>
+        9:30:48 PM
+      </td>
+      <td>
+        5299.5
+      </td>
+      <td>
+        0.01628212
+      </td>
+    </tr>
+    <tr
+      id={349248325}
+    >
+      <td>
+        9:30:25 PM
+      </td>
+      <td>
+        5299.5
+      </td>
+      <td>
+        0.1
+      </td>
+    </tr>
+    <tr
+      id={349248320}
+    >
+      <td>
+        9:30:22 PM
+      </td>
+      <td>
+        5299.5
+      </td>
+      <td>
+        0.05239461
+      </td>
+    </tr>
+    <tr
+      id={349248317}
+    >
+      <td>
+        9:30:19 PM
+      </td>
+      <td>
+        5299.5
+      </td>
+      <td>
+        0.004
+      </td>
+    </tr>
+    <tr
+      id={349248308}
+    >
+      <td>
+        9:30:16 PM
+      </td>
+      <td>
+        5299.4
+      </td>
+      <td>
+        0.0176
+      </td>
+    </tr>
+    <tr
+      id={349248305}
+    >
+      <td>
+        9:30:14 PM
+      </td>
+      <td>
+        5299.4
+      </td>
+      <td>
+        0.01170507
+      </td>
+    </tr>
+    <tr
+      id={349248291}
+    >
+      <td>
+        9:30:12 PM
+      </td>
+      <td>
+        5299.4
+      </td>
+      <td>
+        0.02298214
+      </td>
+    </tr>
+    <tr
+      id={349248280}
+    >
+      <td>
+        9:30:09 PM
+      </td>
+      <td>
+        5298.2
+      </td>
+      <td>
+        0.052
+      </td>
+    </tr>
+    <tr
+      id={349248281}
+    >
+      <td>
+        9:30:09 PM
+      </td>
+      <td>
+        5298.3
+      </td>
+      <td>
+        0.095
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;

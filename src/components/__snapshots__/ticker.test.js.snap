@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Ticker Component Test renders as expected 1`] = `
+<div>
+  <div>
+    Daily Change: 
+    0.1
+  </div>
+  <div>
+    Last Price: 
+    100
+  </div>
+  <div>
+    Volume: 
+    1000
+  </div>
+  <div>
+    High: 
+    5500
+  </div>
+  <div>
+    Low: 
+    3000
+  </div>
+</div>
+`;
