@@ -1,7 +1,7 @@
 ## Available Scripts
 
 ### Improvements to be added
-1. Change app structure to a more functional approach with each feature nesting its own reducers, actions, selectors, components, containers, hocs. Moving shared compoenets and hocs to seperate folders for resuablity
+1. Change app structure to a more feature based approach with each feature nesting its own reducers, actions, selectors, components, containers, hocs. Moving shared compoenets and hocs to seperate folders for resuablity
 2. Complete writing tests for reducers, containers, store flow integration, middleware and mock services
 3. Convert components that are shared to resuable components across the board
 4. Add prop types validation
